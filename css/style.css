@@ -1,0 +1,87 @@
+
+/********** Main **********/
+body {
+    background-color: beige;
+    color: #3c0a00;
+    font-family:LXGW WenKai Mono TC;
+}
+
+h1 {
+    text-decoration-line: underline;
+    text-decoration-style: double;
+}
+
+h2 {
+    text-decoration-line: underline;
+}
+
+h3 {
+    text-decoration-line: underline;
+}
+
+p {
+    font-size: 15px;
+}
+
+hr {
+    border: 1.5px solid #3c0a00;
+}
+
+
+/********** Links **********/
+a:link {
+    color: cornflowerblue;
+}
+a:visited {
+    color: darkslateblue;
+}
+a:hover {
+    color:lightpink;
+}
+a:active {
+    color:lightblue;
+}
+
+
+/********** Image and caption **********/
+img {
+    border-radius: 10px;
+}
+
+figure {
+    color: black;
+}
+
+figcaption {
+    font-size: 12px;
+}
+
+
+/********** Lists **********/
+ul {
+    text-transform: capitalize;
+}
+
+ol {
+    border: 1px solid black;
+}
+
+li {
+    list-style-type: circle;
+}
+
+
+/********** Forms **********/
+form {
+    font-weight: bold;
+}
+input {
+    font-size: 14px;
+}
+fieldset {
+    border: 1.5px solid;
+}
+legend {
+    font-size: 15px;
+}
+
