@@ -1,7 +1,7 @@
 
 /********** Main **********/
 body {
-    background-image: url(../images/close-up-shot-of-marble.jpg);
+    background-image: url(/images/close-up-shot-of-marble.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: beige;
